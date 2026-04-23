@@ -1,0 +1,15 @@
+train: images/train
+val: images/val
+test: images/test
+
+names:
+0: santa clara
+1: italac
+2:coca_cola
+3: max
+4: zero cal
+5: quero
+6: tambau
+7: camil
+8: turquesa
+9: bem_te_vi
